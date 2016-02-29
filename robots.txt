@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /evenements/action~posterboard/
+Disallow: /evenements/action~agenda/
+Disallow: /evenements/action~oneday/
+Disallow: /evenements/action~month/
+Disallow: /evenements/action~week/
+Disallow: /evenements/action~stream/
